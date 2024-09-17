@@ -1,0 +1,29 @@
+{
+  "name": "nextjs_01",
+  "version": "0.1.0",
+  "author": {
+    "name": "HopeAdler"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/nextjs-registry": "1.0.1",
+    "antd": "5.20.6",
+    "next": "14.2.11",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.5",
+    "@types/react": "18.3.6",
+    "@types/react-dom": "18.3.0",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.11",
+    "typescript": "5.6.2"
+  }
+}
